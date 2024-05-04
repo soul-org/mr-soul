@@ -1,0 +1,12 @@
+[submodule "fe-platform"]
+	path = fe-platform
+	url = https://github.com/soul-org/fe-platform.git
+[submodule "documents"]
+	path = documents
+	url = https://github.com/soul-org/documents.git
+[submodule "be-contract"]
+	path = be-contract
+	url = https://github.com/soul-org/be-contract.git
+[submodule "be-contracts"]
+	path = be-contracts
+	url = https://github.com/soul-org/be-contracts.git
