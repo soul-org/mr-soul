@@ -4,9 +4,9 @@
 [submodule "documents"]
 	path = documents
 	url = https://github.com/soul-org/documents.git
-[submodule "be-contract"]
-	path = be-contract
-	url = https://github.com/soul-org/be-contract.git
 [submodule "be-contracts"]
 	path = be-contracts
 	url = https://github.com/soul-org/be-contracts.git
+[submodule "be-analytics-api"]
+	path = be-analytics-api
+	url = https://github.com/soul-org/be-analytics-api.git
